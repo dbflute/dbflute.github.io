@@ -1,6 +1,6 @@
 map:{
-    ; dbflute.latest.version = 1.1.0-sp5
-    ; dbflute.latest.snapshot.version = 1.1.0-sp6-RC3
+    ; dbflute.latest.version = 1.1.0-sp6
+    ; dbflute.latest.snapshot.version = 1.1.0-sp7-RC1
     ; dbflute.download.url = http://dbflute.seasar.org/download/dbflute/dbflute$$versionSuffix$$.zip
     ; intro.download.url = http://p1us2er0.github.io/dbflute-intro/download/dbflute-intro.jar
 }
