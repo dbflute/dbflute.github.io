@@ -1,6 +1,0 @@
-map:{
-    ; dbflute.latest.version = 1.1.2
-    ; dbflute.latest.snapshot.version = 1.1.2
-    ; dbflute.download.url = http://dbflute.seasar.org/download/dbflute/dbflute$$versionSuffix$$.zip
-    ; intro.download.url = http://dbflute.seasar.org/download/misc/helper/intro/dbflute-intro.war
-}
