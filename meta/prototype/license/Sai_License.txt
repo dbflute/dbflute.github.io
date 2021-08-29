@@ -1,0 +1,2 @@
+The GNU General Public License ("CLASSPATH" EXCEPTION)
+https://raw.githubusercontent.com/codelibs/sai/master/LICENSE

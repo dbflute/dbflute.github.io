@@ -1,0 +1,2 @@
+ASM is released under the following 3-Clause BSD License
+https://asm.ow2.io/license.html
